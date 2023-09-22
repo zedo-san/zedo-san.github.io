@@ -19,7 +19,7 @@ const yearsOfExperience = computed(() => {
         <h1 class="text-2xl text-center 2xl:text-left md:text-4xl leading-6 font-bold text-gray-900 pb-4">
           Zedfeld G. Busiños
         </h1>
-        <h2 class="text-lg text-center 2xl:text-left md:text-2xl leading-3 pb-4">Frontend Developer</h2>
+        <h2 class="text-lg text-center 2xl:text-left md:text-2xl leading-3 pb-4">Software Developer</h2>
       </section>
       <section>
         <div class="text-center 2xl:text-left">
